@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Cosmetic Innovation",
+    "url": "https://cosmeticinnovation.com.br",
+    "scope": "Brasil · B2B & P&D",
+    "focus": "Inovação em ingredientes ativos, ciência capilar, nanotecnologia, fornecedores e dados do mercado brasileiro.",
+    "rssIntegrated": true
+  },
+  {
+    "name": "ABIHPEC",
+    "url": "https://abihpec.org.br",
+    "scope": "Brasil · Institucional & Dados",
+    "focus": "Estatísticas oficiais do setor HPPC, comércio exterior, regulação ANVISA, tributação e sustentabilidade.",
+    "rssIntegrated": true
+  },
+  {
+    "name": "Brazil Beauty News",
+    "url": "https://www.brazilbeautynews.com",
+    "scope": "Brasil & América Latina",
+    "focus": "Lançamentos de marcas, embalagens, matérias-primas e movimentações do varejo de cosméticos.",
+    "rssIntegrated": true
+  },
+  {
+    "name": "BeautyMatter",
+    "url": "https://beautymatter.com",
+    "scope": "Global · Estratégia & Cultura",
+    "focus": "Principal referência mundial em análises de tendências estéticas, design, M&A e comportamento de consumo.",
+    "rssIntegrated": false
+  },
+  {
+    "name": "CosmeticsDesign",
+    "url": "https://www.cosmeticsdesign.com",
+    "scope": "Global · Ciência & Formulação",
+    "focus": "Pesquisa científica de ativos, microbioma, biotecnologia, embalagens circulares e regulação internacional.",
+    "rssIntegrated": true
+  },
+  {
+    "name": "Beauty Independent",
+    "url": "https://www.beautyindependent.com",
+    "scope": "Global · Marcas & Varejo",
+    "focus": "Crescimento de marcas independentes, estratégias em marketplaces, TikTok Shop e distribuição omnichannel.",
+    "rssIntegrated": false
+  },
+  {
+    "name": "Loucas por Beleza (Beleza na Web)",
+    "url": "https://www.belezanaweb.com.br/loucas-por-beleza/",
+    "scope": "Brasil · Editorial Consumidora",
+    "focus": "Termômetro de dúvidas reais da consumidora brasileira sobre cronograma capilar, acidificação, óleos e matização.",
+    "rssIntegrated": false
+  },
+  {
+    "name": "WGSN Beauty / Mintel",
+    "url": "https://www.wgsn.com/pt/products/beauty",
+    "scope": "Global · Forecasting",
+    "focus": "Mapeamento antecipado de comportamento geracional, paletas sensoriais e macrotendências de longo prazo.",
+    "rssIntegrated": false
+  }
+]

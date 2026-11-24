@@ -1,0 +1,37 @@
+name: Atualizar Radar Diario de Cosmeticos (RSS)
+
+on:
+  schedule:
+    # Roda todos os dias às 10:00 UTC (07:00 horário de Brasília)
+    - cron: '0 10 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-rss-feed:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Baixar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Coletar noticias recentes do mercado de cosmeticos
+        run: node scripts/fetch-news.mjs
+
+      - name: Salvar atualizacao no repositorio (dispara deploy na Vercel)
+        run: |
+          git config user.name "verde-brasil-radar-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add src/data/news.json
+          if git diff --staged --quiet; then
+            echo "Sem mudancas nas noticias hoje."
+          else
+            git commit -m "chore(radar): atualizacao automatica de noticias HPPC [$(date -u +'%Y-%m-%d')]"
+            git push
+          fi
