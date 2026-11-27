@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-26T10:45:37.922Z",
-  "totalCollected": 61,
+  "updatedAt": "2026-11-27T10:41:46.858Z",
+  "totalCollected": 66,
   "sources": [
     {
       "id": "cosmetic-innovation",
@@ -36,129 +36,153 @@
       "id": "gnews-global-trends",
       "name": "Global Beauty & Hair Innovation",
       "ok": true,
-      "count": 6
+      "count": 12
     }
   ],
   "items": [
     {
-      "id": "TWF5YmVsbGluZSBsYW7Dp2",
-      "title": "Maybelline lança spray fixador com tecnologia de resfriamento e ação de 36h nos EUA",
-      "summary": "A Maybelline New York amplia seu portfólio de maquiagem com o lançamento do CryoBlur Setting Spray, spray fixador inspirado em rituais de crioterapia que combina efeito refrescante imediato, suavização visual das imperfeições e fixação da maquiagem por até...",
-      "url": "https://cosmeticinnovation.com.br/maybelline-lanca-spray-fixador-com-tecnologia-de-resfriamento-e-acao-de-36h-nos-eua/",
+      "id": "UHJpbmNpcGlhIGFwcmVzZW",
+      "title": "Principia apresenta óleo de banho com 30% de glicerina",
+      "summary": "OL-02 combina tensoativos e emolientes condicionantes em formulação desenvolvida para a limpeza suave e a hidratação de peles secas e sensíveis A Principia apresenta o Óleo de Banho OL-02, desenvolvido para promover a limpeza da pele sem comprometer sua hid...",
+      "url": "https://cosmeticinnovation.com.br/principia-apresenta-oleo-de-banho-com-30-de-glicerina/",
+      "publisher": "Cosmetic Innovation",
+      "feedName": "Cosmetic Innovation",
+      "region": "BR",
+      "category": "Ativos, P&D & Ciência",
+      "verdeBrasilNote": "Conexão: Óleos Capilares & Finalizadores",
+      "publishedAt": "2026-11-26T20:29:56.000Z"
+    },
+    {
+      "id": "QmVhdXR5IGluIDg6IEtsYX",
+      "title": "Beauty in 8: Klasmē Group apresenta oito novas marcas e reforça a expansão da beleza asiática no brasil",
+      "summary": "Evento realizado no 033 Rooftop, em São Paulo, reuniu 250 convidados, entre personalidades, creators, imprensa e profissionais do mercado, para celebrar um novo capítulo da beleza asiática no país. A beleza asiática ganha cada vez mais espaço no mercado int...",
+      "url": "https://cosmeticinnovation.com.br/beauty-in-8-klasme-group-apresenta-oito-novas-marcas-e-reforca-a-expansao-da-beleza-asiatica-no-brasil/",
       "publisher": "Cosmetic Innovation",
       "feedName": "Cosmetic Innovation",
       "region": "BR",
       "category": "Ativos, P&D & Ciência",
       "verdeBrasilNote": "Radar Estratégico HPPC",
-      "publishedAt": "2026-11-25T20:28:50.000Z"
+      "publishedAt": "2026-11-26T20:23:23.000Z"
     },
     {
-      "id": "TGFuZWlnZSBsYW7Dp2EgbG",
-      "title": "Laneige lança linha Açai Mango para cuidados labiais",
-      "summary": "Linha reúne bálsamo labial e máscara noturna com inspiração na combinação de açaí e manga, ampliando as opções de cuidados com os lábios. A Laneige apresenta a Açai Mango Marble Smoothie, novidade que reúne dois produtos voltados à hidratação e ao cuidado d...",
-      "url": "https://cosmeticinnovation.com.br/laneige-lanca-linha-acai-mango-para-cuidados-labiais/",
+      "id": "RmFybmVzZSBlc3RyZWlhIG",
+      "title": "Farnese estreia no mercado capilar com 19 produtos",
+      "summary": "Marca amplia sua atuação no setor de beleza com quatro linhas de tratamento, ativos especializados e soluções para diferentes tipos de cabelo A Farnese, tradicionalmente reconhecida por seu portfólio de produtos de banho e perfumação, anuncia sua entrada no...",
+      "url": "https://cosmeticinnovation.com.br/farnese-estreia-no-mercado-capilar-com-19-produtos/",
       "publisher": "Cosmetic Innovation",
       "feedName": "Cosmetic Innovation",
       "region": "BR",
       "category": "Hair Care & Capilar",
-      "verdeBrasilNote": "Conexão: Ativos Naturais & Biodiversidade",
-      "publishedAt": "2026-11-25T20:19:33.000Z"
+      "verdeBrasilNote": "Foco Core: Cuidados Capilares",
+      "publishedAt": "2026-11-26T19:50:06.000Z"
     },
     {
-      "id": "VG91Y2hsYW5kIGUgU3Rhcm",
-      "title": "Touchland e Starbucks lançam kit de higienização das mãos em edição limitada nos EUA",
-      "summary": "A Touchland, marca especializada em higienizadores de mãos em spray, anunciou uma parceria com a Starbucks para o lançamento de uma edição limitada que combina cuidados pessoais, experiência sensorial e acessórios colecionáveis. A novidade integra a campanh...",
-      "url": "https://cosmeticinnovation.com.br/touchland-e-starbucks-lancam-kit-de-higienizacao-das-maos-em-edicao-limitada-nos-eua/",
+      "id": "Vml2YWkgbGFuw6dhIHBhbG",
+      "title": "Vivai lança paleta com embalagem que se transforma em suporte para celular",
+      "summary": "Estojo de sombras transforma embalagem em suporte para celular, associando praticidade no uso da maquiagem à produção de conteúdo digital. A Vivai Cosméticos apresenta um diferencial funcional na embalagem do Estojo de Sombras Me Insta: a estrutura do produ...",
+      "url": "https://cosmeticinnovation.com.br/vivai-lanca-paleta-com-embalagem-que-se-transforma-em-suporte-para-celular/",
+      "publisher": "Cosmetic Innovation",
+      "feedName": "Cosmetic Innovation",
+      "region": "BR",
+      "category": "Tendências & Conteúdo",
+      "verdeBrasilNote": "Radar Estratégico HPPC",
+      "publishedAt": "2026-11-26T19:43:38.000Z"
+    },
+    {
+      "id": "U2VwaG9yYSBDb2xsZWN0aW",
+      "title": "Sephora Collection celebra 30 anos e anuncia estratégia de expansão global",
+      "summary": "A Sephora Collection, marca própria da rede de varejo de beleza Sephora, celebra três décadas de atuação em 2026 e anuncia uma nova estratégia de crescimento para 2027, com foco em inovação de produtos, renovação de portfólio e expansão internacional. Integ...",
+      "url": "https://cosmeticinnovation.com.br/sephora-collection-celebra-30-anos-e-anuncia-estrategia-de-expansao-global/",
+      "publisher": "Cosmetic Innovation",
+      "feedName": "Cosmetic Innovation",
+      "region": "BR",
+      "category": "Ativos, P&D & Ciência",
+      "verdeBrasilNote": "Conexão: Linha Cresce Cabelo / Scalp Care",
+      "publishedAt": "2026-11-26T19:27:25.000Z"
+    },
+    {
+      "id": "TOKAmU9yw6lhbCBQYXJpcy",
+      "title": "L’Oréal Paris inaugura nova plataforma de conteúdo científico no Brasil",
+      "summary": "Com estreia em 26 de novembro de 2026, websérie investiga fórmulas e ativos de linhas consagradas da marca, traduzindo a ciência para o público L’Oréal Paris®, marca de beleza nº 1 do mundo, lança em 26 de novembro de 2026 sua plataforma contínua de conteúd...",
+      "url": "https://cosmeticinnovation.com.br/loreal-paris-inaugura-nova-plataforma-de-conteudo-cientifico-no-brasil/",
       "publisher": "Cosmetic Innovation",
       "feedName": "Cosmetic Innovation",
       "region": "BR",
       "category": "Ativos, P&D & Ciência",
       "verdeBrasilNote": "Radar Estratégico HPPC",
-      "publishedAt": "2026-11-25T20:12:57.000Z"
+      "publishedAt": "2026-11-26T19:25:39.000Z"
     },
     {
-      "id": "Vml6emVsYSBlIExB4oCZcy",
-      "title": "Vizzela e LA’s Clothing ampliam collab de sucesso com novos itens Red Mocha",
-      "summary": "Após o sucesso do blush stick e do compacto, marcas apresentam lápis de boca e tint multifuncional em edição limitada, reforçando a conexão entre beleza e moda. A parceria entre Vizzela e LA’s Clothing ganha um novo capítulo com o lançamento de dois produto...",
-      "url": "https://cosmeticinnovation.com.br/vizzela-e-las-clothing-ampliam-collab-de-sucesso-com-novos-itens-red-mocha/",
+      "id": "UMOzIHF1ZXJpZGluaG8gZG",
+      "title": "Pó queridinho de Vult ganha tecnologia Pro-Finish e nova embalagem",
+      "summary": "Clássico da marca chega à linha Iconic Matte com textura ultrafina, resistência à água e ao suor e controle prolongado do brilho Um dos produtos clássicos de Vult ganhou uma nova versão para acompanhar a evolução do portfólio de maquiagem da marca. O Pó Com...",
+      "url": "https://cosmeticinnovation.com.br/po-queridinho-de-vult-ganha-tecnologia-pro-finish-e-nova-embalagem/",
+      "publisher": "Cosmetic Innovation",
+      "feedName": "Cosmetic Innovation",
+      "region": "BR",
+      "category": "Ativos, P&D & Ciência",
+      "verdeBrasilNote": "Conexão: Óleos Capilares & Finalizadores",
+      "publishedAt": "2026-11-26T19:07:56.000Z"
+    },
+    {
+      "id": "Vml6emVsYSBhbXBsaWEgbG",
+      "title": "Vizzela amplia linha FIX com pó compacto à prova d’água e efeito blur",
+      "summary": "Novo formato do Fix HD Powder combina controle da oleosidade, acabamento matte e praticidade na aplicação A Vizzela ampliou seu portfólio de maquiagem facial com o Fix HD Powder Compacto, versão do tradicional pó solto da linha FIX. O produto foi desenvolvi...",
+      "url": "https://cosmeticinnovation.com.br/vizzela-amplia-linha-fix-com-po-compacto-a-prova-dagua-e-efeito-blur/",
+      "publisher": "Cosmetic Innovation",
+      "feedName": "Cosmetic Innovation",
+      "region": "BR",
+      "category": "Ativos, P&D & Ciência",
+      "verdeBrasilNote": "Conexão: Óleos Capilares & Finalizadores",
+      "publishedAt": "2026-11-26T18:32:46.000Z"
+    },
+    {
+      "id": "aGVsaW9kZXJtIGFtcGxpYS",
+      "title": "helioderm amplia portfólio com sabonete líquido facial",
+      "summary": "Buscando evoluir no mercado de skincare, Helioderm, marca da Hertz Farmacêutica e referência em proteção solar e cuidados com a pele, amplia seu portfólio com lançamento inédito O lançamento dá sequência ao movimento de expansão da marca no segmento de cuid...",
+      "url": "https://cosmeticinnovation.com.br/helioderm-amplia-portfolio-com-sabonete-liquido-facial/",
       "publisher": "Cosmetic Innovation",
       "feedName": "Cosmetic Innovation",
       "region": "BR",
       "category": "Ativos, P&D & Ciência",
       "verdeBrasilNote": "Radar Estratégico HPPC",
-      "publishedAt": "2026-11-25T19:43:22.000Z"
+      "publishedAt": "2026-11-26T17:50:10.000Z"
     },
     {
-      "id": "Qm9keSBzcGxhc2hlcyBlIG",
-      "title": "Body splashes e body mists ganham espaço e acompanham mudanças no consumo de fragrâncias",
-      "summary": "Em alta nas redes sociais e nas rotinas de autocuidado, categoria também abre espaço para embalagens de vidro como alternativa para marcas que buscam valorizar a apresentação dos produtos Os body splashes e body mists se consolidaram como uma das principais...",
-      "url": "https://cosmeticinnovation.com.br/body-splashes-e-body-mists-ganham-espaco-e-acompanham-mudancas-no-consumo-de-fragrancias/",
+      "id": "U2t5bGFyIGxhbsOnYSB0cm",
+      "title": "Skylar lança trio de fragrâncias gourmand para corpo e cabelo nos EUA",
+      "summary": "A Skylar amplia seu portfólio de perfumaria com o lançamento do Hair & Body Mist Gourmand Trio, conjunto de três névoas perfumadas para corpo e cabelo que exploram notas frutadas, adocicadas, cremosas e ambaradas. O lançamento marca a retomada da marca na c...",
+      "url": "https://cosmeticinnovation.com.br/skylar-lanca-trio-de-fragrancias-gourmand-para-corpo-e-cabelo-nos-eua/",
       "publisher": "Cosmetic Innovation",
       "feedName": "Cosmetic Innovation",
       "region": "BR",
-      "category": "Sustentabilidade & Regulação",
-      "verdeBrasilNote": "Monitoramento: ANVISA & ESG",
-      "publishedAt": "2026-11-25T19:42:40.000Z"
+      "category": "Hair Care & Capilar",
+      "verdeBrasilNote": "Foco Core: Cuidados Capilares",
+      "publishedAt": "2026-11-26T17:46:10.000Z"
     },
     {
-      "id": "VmllcnJvIGFwcmVzZW50YS",
-      "title": "Vierro apresenta Vanilla Cream, fragrância gourmand com baunilha e caramelo",
-      "summary": "Fragrância combina notas de morango, mel, tonka, manga, jasmim, baunilha e âmbar em uma proposta gourmand e cremosa. A Vierro apresenta Vanilla Cream, nova fragrância da marca que explora o universo dos perfumes gourmand por meio de uma composição marcada p...",
-      "url": "https://cosmeticinnovation.com.br/vierro-apresenta-vanilla-cream-fragrancia-gourmand-com-baunilha-e-caramelo/",
-      "publisher": "Cosmetic Innovation",
-      "feedName": "Cosmetic Innovation",
+      "id": "VUUgZSBSZWlubyBVbmlkby",
+      "title": "UE e Reino Unido sancionam empresas envolvidas em cartel de fragrâncias",
+      "summary": "A União Europeia impôs, nesta quarta-feira (25), multas que somam 471,9 milhões de euros (R$ 3 bilhões o US$ 515 milhões) aos três maiores fabricantes mundiais de fragrâncias: os grupos suíços Firmenich e Givaudan e a americana International Flavors and Fra...",
+      "url": "https://www.brazilbeautynews.com/ue-e-reino-unido-sancionam-empresas-envolvidas-em,6134",
+      "publisher": "Brazil Beauty News",
+      "feedName": "Brazil Beauty News",
       "region": "BR",
-      "category": "Ativos, P&D & Ciência",
+      "category": "Mercado & Negócios",
       "verdeBrasilNote": "Radar Estratégico HPPC",
-      "publishedAt": "2026-11-25T19:32:48.000Z"
+      "publishedAt": "2026-11-26T17:09:34.000Z"
     },
     {
-      "id": "UmFyZSBCZWF1dHkgYXJyZW",
-      "title": "Rare Beauty arrecada US$ 3 milhões nos EUA para apoiar a saúde mental de jovens",
-      "summary": "O Rare Impact Fund, fundo filantrópico criado por Selena Gomez, fundadora da Rare Beauty, arrecadou cerca de US$ 3 milhões durante a quarta edição de seu evento beneficente anual. Realizada em 14 de outubro de 2026, em Los Angeles, nos Estados Unidos, a ini...",
-      "url": "https://cosmeticinnovation.com.br/rare-beauty-arrecada-us-3-milhoes-nos-eua-para-apoiar-a-saude-mental-de-jovens/",
-      "publisher": "Cosmetic Innovation",
-      "feedName": "Cosmetic Innovation",
+      "id": "UG9yIGRlbnRybyBkYSByb3",
+      "title": "Por dentro da rotina de cuidados capilares de Gracyanne Barbosa",
+      "summary": "Cobertura publicada por Globo monitorada no radar Radar Capilar & Hair Care (BR). Clique para ler a matéria completa na fonte original.",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOR1B2NF9McVc3T3VPTXVFSFdtRjJha3E3bEFSTEpXVDFCeHhhNjk5WUdUcVpabkRFVS15Rk5NcGRZaG1KakdtNURaRTJPa2tkZV9GRWwwWS1nOF9YTWtiY3FwZTFURjFsQV8zT05HandHYUU3TW5rZ0dJa2U3TXZ0UUQxLUQ2ajBsOW04OXpYLUZ1Q0JEYVcxNTdFOFpNX1AzM001bjVBVnZYdktLLUh6RkduazVlRVF4SnNuQ3FGeURVUGxrWGVOYUVVT1JDaU0wckhUa2Jn0gHWAUFVX3lxTE5HUHY0X0xxVzdPdU9NdUVIV21GMmFrcTdsQVJMSldUMUJ4eGE2OTlZR1RxWlpuREVVLXlGTk1wZFlobUpqR201RFpFMk9ra2RlX0ZFbDBZLWc4X1hNa2JjcXBlMVRGMWxBXzNPTkdqd0dhRTdNbmtnR0lrZTdNdnRRRDEtRDZqMGw5bTg5elgtRnVDQkRhVzE1N0U4Wk1fUDMzTTVuNUFWdlh2S0stSHpGR25rNWVFUXhKc25DcUZ5RFVQbGtYZU5hRVVPUkNpTTBySFRrYmc?oc=5",
+      "publisher": "Globo",
+      "feedName": "Radar Capilar & Hair Care (BR)",
       "region": "BR",
-      "category": "Ativos, P&D & Ciência",
-      "verdeBrasilNote": "Radar Estratégico HPPC",
-      "publishedAt": "2026-11-25T19:25:45.000Z"
-    },
-    {
-      "id": "SGlkcmFiZW5lIGxhbsOnYS",
-      "title": "Hidrabene lança stick solar FPS 90 inspirado na K-Beauty",
-      "summary": "Protetor solar em bastão combina PDRN vegetal, Centella Asiática e ácido hialurônico, com FPS 90 e textura aveludada A Hidrabene amplia seu portfólio de fotoproteção com o lançamento do Stick Cotton Soft FPS 90, produto desenvolvido para oferecer uma experi...",
-      "url": "https://cosmeticinnovation.com.br/hidrabene-lanca-stick-solar-fps-90-com-tecnologia-k-beauty/",
-      "publisher": "Cosmetic Innovation",
-      "feedName": "Cosmetic Innovation",
-      "region": "BR",
-      "category": "Ativos, P&D & Ciência",
-      "verdeBrasilNote": "Radar Estratégico HPPC",
-      "publishedAt": "2026-11-25T19:11:29.000Z"
-    },
-    {
-      "id": "VGhlIE9yZGluYXJ5IGluY2",
-      "title": "The Ordinary incentiva a doação de sangue em quatro países na Black Friday",
-      "summary": "A The Ordinary anunciou uma iniciativa de responsabilidade social para a Black Friday de 2026. No dia 27 de novembro de 2026, a marca de cuidados com a pele suspenderá suas atividades comerciais em lojas participantes, destinando os espaços à realização de...",
-      "url": "https://cosmeticinnovation.com.br/the-ordinary-incentiva-a-doacao-de-sangue-em-quatro-paises-na-black-friday/",
-      "publisher": "Cosmetic Innovation",
-      "feedName": "Cosmetic Innovation",
-      "region": "BR",
-      "category": "Ativos, P&D & Ciência",
-      "verdeBrasilNote": "Radar Estratégico HPPC",
-      "publishedAt": "2026-11-25T18:59:45.000Z"
-    },
-    {
-      "id": "U2hpc2VpZG8gYXByZXNlbn",
-      "title": "Shiseido apresenta Zen Essence Eau De Parfum, um convite olfativo ao estado de presença",
-      "summary": "Um oásis de serenidade em meio à agitação diária, ZEN ESSENCE convida a desacelerar, respirar e se reconectar. Criada pelo perfumista Florian Gallo, a nova eau de parfum da SHISEIDO convida a uma pausa silenciosa, combinando a luminosidade vibrante das flor...",
-      "url": "https://cosmeticinnovation.com.br/shiseido-apresenta-zen-essence-eau-de-parfum-um-convite-olfativo-ao-estado-de-presenca/",
-      "publisher": "Cosmetic Innovation",
-      "feedName": "Cosmetic Innovation",
-      "region": "BR",
-      "category": "Ativos, P&D & Ciência",
-      "verdeBrasilNote": "Radar Estratégico HPPC",
-      "publishedAt": "2026-11-25T18:55:11.000Z"
+      "category": "Hair Care & Capilar",
+      "verdeBrasilNote": "Foco Core: Cuidados Capilares",
+      "publishedAt": "2026-11-26T12:58:14.000Z"
     },
     {
       "id": "RXN0dWRvOiBDb21vIGEgSU",
@@ -197,6 +221,18 @@
       "publishedAt": "2026-11-23T20:18:01.000Z"
     },
     {
+      "id": "QW52aXNhIHByb8OtYmUgc2",
+      "title": "Anvisa proíbe shampoo anticaspa com indicação infantil",
+      "summary": "Cobertura publicada por TV Sim Brasil monitorada no radar Regulação ANVISA & Sustentabilidade. Clique para ler a matéria completa na fonte original.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTWR1S1hJNVRhSjMzb1hTck04RzZGOGZQZ3hNVGxlS1hsRmkyay1wSHI2NXpFVHAtNHBJMmg1LXRfS0dDQ3R6Mkx3T1ZzaEZGaXBmdlUwejZ1bXp1YVgzQjVvVjdKeTB1RE1MWXlpaGRuWHlxeHEwR1NQbGRieGtIdjJuWmg0RGNWVjROVGs5NjdySHhXdjU5ZnFHMGF4OUJkNy1yRFJ3NF9XTzhHbFE?oc=5",
+      "publisher": "TV Sim Brasil",
+      "feedName": "Regulação ANVISA & Sustentabilidade",
+      "region": "BR",
+      "category": "Hair Care & Capilar",
+      "verdeBrasilNote": "Foco Core: Cuidados Capilares",
+      "publishedAt": "2026-11-23T19:11:41.000Z"
+    },
+    {
       "id": "VmFuZXNzYSBCZWF1dHkgQ2",
       "title": "Vanessa Beauty Cosméticos chega ao Mega Fashion no estande 172 com universo de cuidados capilares",
       "summary": "Cobertura publicada por Taís Paranhos monitorada no radar Radar Capilar & Hair Care (BR). Clique para ler a matéria completa na fonte original.",
@@ -209,28 +245,28 @@
       "publishedAt": "2026-11-23T18:56:00.000Z"
     },
     {
-      "id": "QSBBZ8OqbmNpYSBOYWNpb2",
-      "title": "A Agência Nacional de Vigilância Sanitária (Anvisa) determinou o recolhimento do xampu em barra anticaspa DC Biocosméticos, comercializado com indicação de uso para crianças. A decisão foi publicada nesta segunda-feira (23) no Diário Oficial da União",
-      "summary": "Cobertura publicada por Instagram monitorada no radar Regulação ANVISA & Sustentabilidade. Clique para ler a matéria completa na fonte original.",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11bDlQZmhRbXNzbi1ZZWhRcDAtYklRaUQxVWM3RXh3V1k4OG8ybXpWZW54U0tHYjNwWVdsenljT0VGb1QyMEtUbFYyOTh2bkw4b3c?oc=5",
-      "publisher": "Instagram",
+      "id": "QW52aXNhIG1hbmRhIHJlY2",
+      "title": "Anvisa manda recolher xampu anticaspa para crianças",
+      "summary": "Cobertura publicada por Coluna do Meio monitorada no radar Regulação ANVISA & Sustentabilidade. Clique para ler a matéria completa na fonte original.",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMkZBXzJZdERTRGFCV0xtM2pYY1VoVHd5X3Jlb1BUbjlyY054UkxJbU9lMlhvUGpwenJpZ1NxeWY2bmxlSW1FWkJRVFpwcENTZE1sNmxMMndSZGJRVDBfWjBLVi1GdF83NjNKVjRKQmE4UjJVQWtRVFJNTWl6U2U5cEdkODM1S01GbVQ5clFGbjB3SjRvUEE?oc=5",
+      "publisher": "Coluna do Meio",
       "feedName": "Regulação ANVISA & Sustentabilidade",
       "region": "BR",
       "category": "Sustentabilidade & Regulação",
       "verdeBrasilNote": "Monitoramento: ANVISA & ESG",
-      "publishedAt": "2026-11-23T15:50:10.000Z"
+      "publishedAt": "2026-11-23T14:38:00.000Z"
     },
     {
-      "id": "QW52aXNhIHByb8OtYmUgdm",
-      "title": "Anvisa proíbe venda de xampu sem autorização para uso infantil",
-      "summary": "Cobertura publicada por Poder360 monitorada no radar Regulação ANVISA & Sustentabilidade. Clique para ler a matéria completa na fonte original.",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSmxBUFhTV29NRXVWdFhuYURETFBNMklrV1I2cElRTDZpY1Fvb0o0b0U4ZUVPRUZ1QnlLM0ZvdDZYMlZLVlpUU3JlVXVqTHdRclZyUlB1RmpGOC1LMjktTk9hNU1EZDhKRDJMNFR4WFJjZ3d3OXlwQ0Naejh6MDhhQTU4cE9UVUl4RGlURTRORHVvZGhNVUExWFJfdldNdDVJUzlHQXBn?oc=5",
-      "publisher": "Poder360",
+      "id": "QW52aXNhIHByb8OtYmUgc2",
+      "title": "Anvisa proíbe shampoo anticaspa com indicação de uso infantil",
+      "summary": "Cobertura publicada por CNN Brasil monitorada no radar Regulação ANVISA & Sustentabilidade. Clique para ler a matéria completa na fonte original.",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNmN4bVNuQXpSeXRkNGx0WXYybHdUaG8zVTg4d2dqNzd5T0MtVG9RZ3RwUnZPZldVUEw2bkI1bTBYU3VlWVNUbWdIcjhvc3BGWnlZQkEwN2kxYUhxa0M5Z0ZzVE00NXFNNTh6cVFZOHNEam9UVDFnWlFHbVUxQUl0VHVyM041R3p0bGY2YzFoc2Zua0hLalRtRFRXZXdlZw?oc=5",
+      "publisher": "CNN Brasil",
       "feedName": "Regulação ANVISA & Sustentabilidade",
       "region": "BR",
-      "category": "Sustentabilidade & Regulação",
-      "verdeBrasilNote": "Monitoramento: ANVISA & ESG",
-      "publishedAt": "2026-11-23T12:20:34.000Z"
+      "category": "Hair Care & Capilar",
+      "verdeBrasilNote": "Foco Core: Cuidados Capilares",
+      "publishedAt": "2026-11-23T14:20:12.000Z"
     },
     {
       "id": "UGF5b3QgcHJvbWV0ZSBjw6",
@@ -305,6 +341,18 @@
       "publishedAt": "2026-11-20T18:34:00.000Z"
     },
     {
+      "id": "4oCYQmVhdXR5IElzIEJvcm",
+      "title": "‘Beauty Is Borderless’ Forum Reflects Evolving Consumers and Cosmetics Industry",
+      "summary": "Happi | Household And Personal Products Industry",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWFFHZlNjUTFVTlBwR2hEMHc1ZnVLMzFLZThYbUhHNUlSQzlGa2w1VkxVV3NHR2NWZU5uVWhqSnc0YkdPdGNYcUJNMXRISUwxZ3MtbmpnbGoyRWVwbEJtRy1DbGJCVEhuWHdOR3ZqNVhRS3VWeU91Uko2X2FNaWNCM3E0RnJ0NVBCWGQyeU43ZHNHUnIwZFZIVGlJX25zZEdWY0pramxRSEx5d081Ykdmcw?oc=5",
+      "publisher": "Happi | Household And Personal Products Industry",
+      "feedName": "Global Beauty & Hair Innovation",
+      "region": "GLOBAL",
+      "category": "Tendências & Conteúdo",
+      "verdeBrasilNote": "Radar Estratégico HPPC",
+      "publishedAt": "2026-11-20T18:09:09.000Z"
+    },
+    {
       "id": "U09XIGNoZWdhIGFvIEJyYX",
       "title": "SOW chega ao Brasil: linha profissional de cuidados capilares com 85% de ativos naturais",
       "summary": "Cobertura publicada por Gazeta da Semana monitorada no radar Radar Capilar & Hair Care (BR). Clique para ler a matéria completa na fonte original.",
@@ -341,52 +389,16 @@
       "publishedAt": "2026-11-19T09:49:23.000Z"
     },
     {
-      "id": "QnJhc2lsIMOpIG8gMcK6IG",
-      "title": "Brasil é o 1º a cumprir acordo Aladi para exportar cosmético",
-      "summary": "Cobertura publicada por TV Sim Brasil monitorada no radar Radar HPPC Brasil (Google News). Clique para ler a matéria completa na fonte original.",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTDFqSUF6MlVnWER2VWl5bzYwSzVaX3EwRXI1aDdMWGUyQnVwNHlWbHQ5dktvWTlkOGlTakxnS3pwakt1OGRNZ3ZYenB0WFlMYmE0ZlZ3akJIR2I2ZGJ3M0NiU1hiVHM0WmNSUXI3akxTTG1GNXA0SWdrR0FmRGRjVFVaUUg1ZlBVX3BjNEt2MDg1OGx6N2NMN0ZQYXJLY1duTDdsVmpBeFlKcWtGTV8xeWdtU1pmaF9aT2NpVVRXRQ?oc=5",
-      "publisher": "TV Sim Brasil",
+      "id": "QnJhc2lsIHNpbXBsaWZpY2",
+      "title": "Brasil simplifica regras de exportação de cosméticos para a América Latina",
+      "summary": "Cobertura publicada por SB24HORAS monitorada no radar Radar HPPC Brasil (Google News). Clique para ler a matéria completa na fonte original.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZ0tRQkJnanliLWNIaFVVZWZIbHY5MlFCempxZW93QWJfaEdOMjE0VlM1d2VnUUJoQlp0VXpMVGdNV0Z5TjFxNHlPWHhJblJxb3RPc2NickUyWkUydmZNdkZBbWFDcWlwb1hDY1NFYjN2M2NyS2Vva2RjMDRCYklkOC1LMGhNWW05SWRIbEdqLVNtb21LaHVFWG1zd3V6Rl95bkE?oc=5",
+      "publisher": "SB24HORAS",
       "feedName": "Radar HPPC Brasil (Google News)",
       "region": "BR",
       "category": "Mercado & Negócios",
       "verdeBrasilNote": "Radar Estratégico HPPC",
-      "publishedAt": "2026-11-18T21:03:01.000Z"
-    },
-    {
-      "id": "TCdPcsOpYWwgVVNBIGZlY2",
-      "title": "L'Oréal USA fecha acordo em ação sobre produtos para alisamento capilar",
-      "summary": "A L'Oréal USA chegou a um acordo com quatro mulheres que processaram a subsidiária americana do grupo francês de cosméticos, alegando que o uso de produtos químicos para alisamento capilar causou câncer. Danielle Ward Mason, advogada das autoras da ação, an...",
-      "url": "https://www.brazilbeautynews.com/l-oreal-usa-fecha-acordo-em-acao-sobre-produtos,6124",
-      "publisher": "Brazil Beauty News",
-      "feedName": "Brazil Beauty News",
-      "region": "BR",
-      "category": "Hair Care & Capilar",
-      "verdeBrasilNote": "Foco Core: Cuidados Capilares",
-      "publishedAt": "2026-11-18T11:30:05.000Z"
-    },
-    {
-      "id": "QnJhc2lsIGZhY2lsaXRhIG",
-      "title": "Brasil facilita exportação de cosméticos para países da América Latina",
-      "summary": "Cobertura publicada por Metrô News Jornal monitorada no radar Radar HPPC Brasil (Google News). Clique para ler a matéria completa na fonte original.",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOM3JFcTBUVDhELWpCb2FjbUZ4OFVyZF8tUHVxOV8wZk0xMGFEN252RzlKd05aelJPdDctQ2VlcGcxdVRybFdVTDFSUGpaMVhVMkRHQ3pXUExacUpZeTRrU0xiWDM2U291RHNyVTBXNDROZ0hsaFVpNUI5UkxfYU00WTRSS1NOd3lFUWhKRTR1amM5eWJ0dk1iXzJrQkI?oc=5",
-      "publisher": "Metrô News Jornal",
-      "feedName": "Radar HPPC Brasil (Google News)",
-      "region": "BR",
-      "category": "Mercado & Negócios",
-      "verdeBrasilNote": "Radar Estratégico HPPC",
-      "publishedAt": "2026-11-17T22:09:00.000Z"
-    },
-    {
-      "id": "QnJhc2lsIGZhY2lsaXRhIG",
-      "title": "Brasil facilita exportação de cosméticos para América Latina",
-      "summary": "Cobertura publicada por Tribuna do Paraná monitorada no radar Radar HPPC Brasil (Google News). Clique para ler a matéria completa na fonte original.",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWElxZlhCd1FMOURDQ0JtWkdGV0Y0bkpJd2ZWNDFWTUozaFFMR0NoUW85dVV0ODNFLWhxSmNQc0hRUDVraGMwZk1lWTItMW1WYmRwVlJlSjk2WkVkbmxqcS1xVTRZaVhpNEVvZG5ELVVwZnJueGpRNHdLc2tCMzVnY0RwU19qSHZoZWR4TGxHT3gzMnNjMjA5S1VBSFF0R3VzV3JQVS13TEN6aHFzaVZvOWdLSW5qZ2fSAbwBQVVfeXFMT0l4T2NFZXB5eVdXMk9FUVh0YWhQd281Yk9NeEd1T0RrajlaWWpNTnlQMWcxN2ZhQ0pyQmt3LWdBeG9ZdW55WVp3VkhDZzhpSHh1YUd6YWlIMWpmOXpkQmc5ZUtycWk2alRPMUhISmlaQ2JJX3B1RTNGQ1Y4Y0pZOVRjWHVXTDEzNmdYREN2bVNZQVQ4blh6OXU4YkFITXM4c1I4bkVEN3Z5SlVPcXJQdC02REF2TlVnb2lWa2g?oc=5",
-      "publisher": "Tribuna do Paraná",
-      "feedName": "Radar HPPC Brasil (Google News)",
-      "region": "BR",
-      "category": "Mercado & Negócios",
-      "verdeBrasilNote": "Radar Estratégico HPPC",
-      "publishedAt": "2026-11-17T21:07:00.000Z"
+      "publishedAt": "2026-11-17T21:46:32.000Z"
     },
     {
       "id": "QnJhc2lsIHNpbXBsaWZpY2",
@@ -398,19 +410,19 @@
       "region": "BR",
       "category": "Mercado & Negócios",
       "verdeBrasilNote": "Radar Estratégico HPPC",
-      "publishedAt": "2026-11-17T20:48:00.000Z"
+      "publishedAt": "2026-11-17T08:00:00.000Z"
     },
     {
-      "id": "R292ZXJubyBwcm9tdWxnYS",
-      "title": "Governo promulga acordo para facilitar comércio de produtos cosméticos — Planalto",
-      "summary": "Cobertura publicada por www.gov.br monitorada no radar Regulação ANVISA & Sustentabilidade. Clique para ler a matéria completa na fonte original.",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNM0VvYjRHNUhsX1VuMFFHb3BBdjhjTW9CWkZ6UW1fSkRBVWVrbUFZc3VkMkJTMWMwc3JCX1B1c1U3b056OGk4REVrY2c3WklmOFN0cFBwZUF5MVlnZG04UXBSR0Z5aXZjeUs2ZVl1TEt6SmlyVHNwMExrdEN4OVVIeEZYRk9BaGNpcUo2RXpaRTV3Y0FwbWRUYVd6SFltemQ5Y3JqMmVtVEFCT1d4VVoxb3VLb1dacHpwVm5kVFRIck1LN252YmJVdjA3U2tJTG9aTXRoakUtTS1sdw?oc=5",
-      "publisher": "www.gov.br",
-      "feedName": "Regulação ANVISA & Sustentabilidade",
+      "id": "QnJhc2lsIGZhY2lsaXRhIG",
+      "title": "Brasil facilita exportação de cosméticos para América Latina",
+      "summary": "Cobertura publicada por Tribuna do Paraná monitorada no radar Radar HPPC Brasil (Google News). Clique para ler a matéria completa na fonte original.",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWElxZlhCd1FMOURDQ0JtWkdGV0Y0bkpJd2ZWNDFWTUozaFFMR0NoUW85dVV0ODNFLWhxSmNQc0hRUDVraGMwZk1lWTItMW1WYmRwVlJlSjk2WkVkbmxqcS1xVTRZaVhpNEVvZG5ELVVwZnJueGpRNHdLc2tCMzVnY0RwU19qSHZoZWR4TGxHT3gzMnNjMjA5S1VBSFF0R3VzV3JQVS13TEN6aHFzaVZvOWdLSW5qZ2fSAbwBQVVfeXFMT0l4T2NFZXB5eVdXMk9FUVh0YWhQd281Yk9NeEd1T0RrajlaWWpNTnlQMWcxN2ZhQ0pyQmt3LWdBeG9ZdW55WVp3VkhDZzhpSHh1YUd6YWlIMWpmOXpkQmc5ZUtycWk2alRPMUhISmlaQ2JJX3B1RTNGQ1Y4Y0pZOVRjWHVXTDEzNmdYREN2bVNZQVQ4blh6OXU4YkFITXM4c1I4bkVEN3Z5SlVPcXJQdC02REF2TlVnb2lWa2g?oc=5",
+      "publisher": "Tribuna do Paraná",
+      "feedName": "Radar HPPC Brasil (Google News)",
       "region": "BR",
-      "category": "Sustentabilidade & Regulação",
-      "verdeBrasilNote": "Monitoramento: ANVISA & ESG",
-      "publishedAt": "2026-11-17T15:19:41.000Z"
+      "category": "Mercado & Negócios",
+      "verdeBrasilNote": "Radar Estratégico HPPC",
+      "publishedAt": "2026-11-17T08:00:00.000Z"
     },
     {
       "id": "U3VhZGEgZSBKw7psaWEgU2",
@@ -509,18 +521,6 @@
       "publishedAt": "2026-10-28T07:00:00.000Z"
     },
     {
-      "id": "w5NsZW8gYmlmw6FzaWNvIG",
-      "title": "Óleo bifásico e spray de algas: Jennifer Lawrence lança a Mes°, marca de cuidados capilares",
-      "summary": "Cobertura publicada por FFW monitorada no radar Radar Capilar & Hair Care (BR). Clique para ler a matéria completa na fonte original.",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOHhEdjhhMFpQejNmRElkOUprSHp2QW91b19CYjcyNVZLRXVZcVVhZjVrZEEySkJkdEVHdWxzZHVwc3o4ZEJUdklnOHlCN3FNb05NOHc1bmJDQmgxNTktdEoxOHg2aDV5WWFSOGMwRnhuRXJ0YVlXZk9ZWFJJSk5fQnRLQ0lSUkdTMU1zWTEwUlMwMlJ4aEZGaGJCYTNGY1N4OWpIcXhRa3JXb2NNbU5SVTUtRDNMNy1pNXFISXF3OGlMUQ?oc=5",
-      "publisher": "FFW",
-      "feedName": "Radar Capilar & Hair Care (BR)",
-      "region": "BR",
-      "category": "Hair Care & Capilar",
-      "verdeBrasilNote": "Conexão: Óleos Capilares & Finalizadores",
-      "publishedAt": "2026-10-27T07:00:00.000Z"
-    },
-    {
       "id": "QmVhdXR5IHRvIEJ1c2luZX",
       "title": "Beauty to Business: An international hub for the cosmetics industry",
       "summary": "Cobertura publicada por Cosmetics Business monitorada no radar Global Beauty & Hair Innovation. Clique para ler a matéria completa na fonte original.",
@@ -533,16 +533,16 @@
       "publishedAt": "2026-10-14T07:00:00.000Z"
     },
     {
-      "id": "Q29uaGXDp2EgYXMgcmVncm",
-      "title": "Conheça as regras para produção artesanal de cosméticos",
-      "summary": "Cobertura publicada por Governo Federal monitorada no radar Regulação ANVISA & Sustentabilidade. Clique para ler a matéria completa na fonte original.",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZnlDTEVPTzJyc1pFWGJmSGlJMUxLX1VBUUlqbWFCQ3hVd1FuOW1OMW5qNmY1Mi1HWFh0VDZkNThKTlRES2xncjV1TGNCZkZDR0xWa1NhWGZlY0tNQ05oTVVKLVpOaVNCS1ZxdGJLQS1sVjl6ajYxMjhhTVU0Y05taDZXU0RVczRnbHItX0tnSGN4SmhjclVQcWZOVERsbFNFbVpPWDdNWGszRG5CbEFrWHVhemp2dkpN?oc=5",
-      "publisher": "Governo Federal",
-      "feedName": "Regulação ANVISA & Sustentabilidade",
-      "region": "BR",
-      "category": "Sustentabilidade & Regulação",
-      "verdeBrasilNote": "Monitoramento: ANVISA & ESG",
-      "publishedAt": "2026-10-05T07:00:00.000Z"
+      "id": "Q29zbWV0aWNzIEJ1c2luZX",
+      "title": "Cosmetics Business reveals the top 5 hair care trends of 2026 in new report",
+      "summary": "Cobertura publicada por Cosmetics Business monitorada no radar Global Beauty & Hair Innovation. Clique para ler a matéria completa na fonte original.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOR0g3OXllTzNPdmFoOFJDOXZIVjRORjMxNTZQY1c2aHhsU1hINE52Y0d6VXdPc3pqbFpkN1BzYlNxd3RqLXNlUjRKTTJpWVVhaFlqTnZ5YzFWSnVhU0lGVnVoV1VRU0oxbGd4N2pnNnZzdTlkU2JNYWM3c0xnd1QxNG9rUTc?oc=5",
+      "publisher": "Cosmetics Business",
+      "feedName": "Global Beauty & Hair Innovation",
+      "region": "GLOBAL",
+      "category": "Hair Care & Capilar",
+      "verdeBrasilNote": "Foco Core: Cuidados Capilares",
+      "publishedAt": "2026-10-07T07:00:00.000Z"
     }
   ]
 }
